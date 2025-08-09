@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transfers teamID="6038">
+    <transfer>
+        <ID>7291300</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>142599</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Semente Atomica</buyerTeamName>
+        <playerID>36840198</playerID>
+        <date>2024-01-25 00:26:20</date>
+        <price>45000</price>
+        <playerValue>1851000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7290264</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>26471</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Aliumana Fenikso</buyerTeamName>
+        <playerID>36353950</playerID>
+        <date>2024-01-21 22:07:14</date>
+        <price>1085628</price>
+        <playerValue>4251000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7290249</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>73127</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Autistas FC</buyerTeamName>
+        <playerID>39150778</playerID>
+        <date>2024-01-21 21:58:38</date>
+        <price>550000</price>
+        <playerValue>542000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7288199</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>11517</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Navua</buyerTeamName>
+        <playerID>38802519</playerID>
+        <date>2024-01-16 21:39:34</date>
+        <price>16348562</price>
+        <playerValue>2935000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7287519</ID>
+        <sellerTeamID>27082</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>GLIKO</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>39075754</playerID>
+        <date>2024-01-14 21:22:37</date>
+        <price>11424000</price>
+        <playerValue>613000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7286764</ID>
+        <sellerTeamID>70990</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>medias95</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37828155</playerID>
+        <date>2024-01-13 18:42:33</date>
+        <price>18389520</price>
+        <playerValue>7096000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7284707</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>122720</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>OS AMIGUS F.C</buyerTeamName>
+        <playerID>39135359</playerID>
+        <date>2024-01-07 21:49:51</date>
+        <price>168000</price>
+        <playerValue>229000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7281608</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>105784</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>1.FC Dolní Kutálci</buyerTeamName>
+        <playerID>39124947</playerID>
+        <date>2023-12-31 16:54:12</date>
+        <price>1180000</price>
+        <playerValue>500000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7269150</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>53012</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>FC Naród Legnicki</buyerTeamName>
+        <playerID>39094731</playerID>
+        <date>2023-12-03 17:38:18</date>
+        <price>6250</price>
+        <playerValue>742000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7258985</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>91603</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Gunners SK</buyerTeamName>
+        <playerID>38866111</playerID>
+        <date>2023-11-04 20:37:54</date>
+        <price>4375000</price>
+        <playerValue>705000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7256537</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>28819</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Meganoidi</buyerTeamName>
+        <playerID>38682807</playerID>
+        <date>2023-10-28 23:10:50</date>
+        <price>25016000</price>
+        <playerValue>2799000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7238489</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>44099</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Solferino</buyerTeamName>
+        <playerID>35912915</playerID>
+        <date>2023-09-13 00:11:58</date>
+        <price>18000</price>
+        <playerValue>3523000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7237116</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>60060</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>FC ARSENAL 1886</buyerTeamName>
+        <playerID>36732046</playerID>
+        <date>2023-09-09 23:46:36</date>
+        <price>934320</price>
+        <playerValue>3767000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7236690</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>106245</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Harpia</buyerTeamName>
+        <playerID>36648798</playerID>
+        <date>2023-09-09 18:37:51</date>
+        <price>408000</price>
+        <playerValue>3776000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7236610</ID>
+        <sellerTeamID>16808</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>GKS  Mazowsze  Grójec</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37205367</playerID>
+        <date>2023-09-09 17:31:04</date>
+        <price>18781260</price>
+        <playerValue>4958000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7235842</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>29039</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Olympique Caracas</buyerTeamName>
+        <playerID>38466900</playerID>
+        <date>2023-09-07 23:18:39</date>
+        <price>60638750</price>
+        <playerValue>4810000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7235314</ID>
+        <sellerTeamID>89610</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Guriri FC</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37291226</playerID>
+        <date>2023-09-06 18:16:02</date>
+        <price>11716248</price>
+        <playerValue>6680000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7235313</ID>
+        <sellerTeamID>89610</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Guriri FC</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37045872</playerID>
+        <date>2023-09-06 18:15:52</date>
+        <price>11774428</price>
+        <playerValue>7340000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7233934</ID>
+        <sellerTeamID>4913</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>SC Froosim</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37277763</playerID>
+        <date>2023-09-02 21:22:27</date>
+        <price>14364660</price>
+        <playerValue>7251000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7228563</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>12587</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>S.S.C.CONDOR</buyerTeamName>
+        <playerID>38998952</playerID>
+        <date>2023-08-19 19:17:24</date>
+        <price>13000</price>
+        <playerValue>300000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7224553</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>141537</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Pannonhalma Replay</buyerTeamName>
+        <playerID>38987865</playerID>
+        <date>2023-08-07 21:29:52</date>
+        <price>22000</price>
+        <playerValue>347000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7223344</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>51483</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>F. C. Stary Obóz</buyerTeamName>
+        <playerID>38987867</playerID>
+        <date>2023-08-05 14:23:09</date>
+        <price>6000</price>
+        <playerValue>172000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7219479</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>140237</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Białe rękawki FC</buyerTeamName>
+        <playerID>38858048</playerID>
+        <date>2023-07-23 23:54:26</date>
+        <price>53000</price>
+        <playerValue>340000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7217286</ID>
+        <sellerTeamID>57249</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Los Colchoneros</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38810673</playerID>
+        <date>2023-07-18 06:39:36</date>
+        <price>17224228</price>
+        <playerValue>863000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7216466</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>20289</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Loros Compton</buyerTeamName>
+        <playerID>38608611</playerID>
+        <date>2023-07-16 00:07:15</date>
+        <price>11492000</price>
+        <playerValue>2243000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7213327</ID>
+        <sellerTeamID>57551</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>FC Bobry</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38864848</playerID>
+        <date>2023-07-07 22:18:03</date>
+        <price>1843860</price>
+        <playerValue>336000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7212406</ID>
+        <sellerTeamID>75588</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Football Warriors</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38925157</playerID>
+        <date>2023-07-04 20:34:37</date>
+        <price>2012460</price>
+        <playerValue>381000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7211433</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>87971</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>KIARA</buyerTeamName>
+        <playerID>38454600</playerID>
+        <date>2023-07-01 23:09:47</date>
+        <price>51008000</price>
+        <playerValue>4132000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7207706</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>24661</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Legia_Warszawa</buyerTeamName>
+        <playerID>38601146</playerID>
+        <date>2023-06-23 00:15:12</date>
+        <price>12735000</price>
+        <playerValue>2672000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7207235</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>141814</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Avengers United</buyerTeamName>
+        <playerID>36030860</playerID>
+        <date>2023-06-21 20:34:39</date>
+        <price>167000</price>
+        <playerValue>2811000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7205949</ID>
+        <sellerTeamID>44812</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Nyugati Huligánok FC</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37571526</playerID>
+        <date>2023-06-18 21:32:08</date>
+        <price>15602940</price>
+        <playerValue>5501000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7203046</ID>
+        <sellerTeamID>43988</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Sempre Orzo</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38866111</playerID>
+        <date>2023-06-11 22:18:34</date>
+        <price>1415760</price>
+        <playerValue>371000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7199979</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>22609</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>F_C Bayern München</buyerTeamName>
+        <playerID>38924314</playerID>
+        <date>2023-06-04 21:20:37</date>
+        <price>750000</price>
+        <playerValue>953000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7193821</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>2959</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Zamek JASTRZĄB</buyerTeamName>
+        <playerID>37253653</playerID>
+        <date>2023-05-17 21:11:32</date>
+        <price>4133040</price>
+        <playerValue>3692000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7193188</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>122827</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>CRUZEIRO FENOMENAL</buyerTeamName>
+        <playerID>38908167</playerID>
+        <date>2023-05-15 21:04:46</date>
+        <price>1000</price>
+        <playerValue>555000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7192786</ID>
+        <sellerTeamID>9133</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>FC MARCINKONYS</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36907774</playerID>
+        <date>2023-05-14 20:00:22</date>
+        <price>9561276</price>
+        <playerValue>7118000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7192758</ID>
+        <sellerTeamID>63058</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Re@l M@drid</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37415960</playerID>
+        <date>2023-05-14 19:37:05</date>
+        <price>18549916</price>
+        <playerValue>5355000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7188088</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>97729</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Behemot</buyerTeamName>
+        <playerID>38897787</playerID>
+        <date>2023-04-30 19:47:33</date>
+        <price>1000</price>
+        <playerValue>468000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7186174</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>144195</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Atlético Guácimos F.C</buyerTeamName>
+        <playerID>38892436</playerID>
+        <date>2023-04-25 19:18:09</date>
+        <price>6250</price>
+        <playerValue>370000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7184431</ID>
+        <sellerTeamID>41100</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>FK Mineral</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38888094</playerID>
+        <date>2023-04-20 23:56:03</date>
+        <price>19624000</price>
+        <playerValue>551000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7183827</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>19978</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>F.C. GEENE</buyerTeamName>
+        <playerID>38648658</playerID>
+        <date>2023-04-18 21:52:26</date>
+        <price>7924000</price>
+        <playerValue>3970000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7174832</ID>
+        <sellerTeamID>103630</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>MafiaTime.MT</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36938705</playerID>
+        <date>2023-03-25 22:43:58</date>
+        <price>7185900</price>
+        <playerValue>4309000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7173396</ID>
+        <sellerTeamID>43862</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Tributario</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37874721</playerID>
+        <date>2023-03-22 22:09:30</date>
+        <price>5233640</price>
+        <playerValue>3785000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7173350</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>42456</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Feitos F.C</buyerTeamName>
+        <playerID>38194928</playerID>
+        <date>2023-03-22 21:12:51</date>
+        <price>44656000</price>
+        <playerValue>4102000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7172496</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>77077</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Le Aquile</buyerTeamName>
+        <playerID>37826602</playerID>
+        <date>2023-03-20 21:06:48</date>
+        <price>13027440</price>
+        <playerValue>2234000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7170182</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>115872</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Isvar FC</buyerTeamName>
+        <playerID>36286919</playerID>
+        <date>2023-03-15 17:47:53</date>
+        <price>634848</price>
+        <playerValue>3590000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7169447</ID>
+        <sellerTeamID>26537</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>F.C. Capsano</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38859019</playerID>
+        <date>2023-03-13 21:10:37</date>
+        <price>7255260</price>
+        <playerValue>287000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7169424</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>26780</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Screaming Shadows</buyerTeamName>
+        <playerID>34728971</playerID>
+        <date>2023-03-13 20:37:42</date>
+        <price>4</price>
+        <playerValue>1911000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7169295</ID>
+        <sellerTeamID>97325</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>blonded</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37253653</playerID>
+        <date>2023-03-13 17:31:03</date>
+        <price>6363608</price>
+        <playerValue>4923000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7167283</ID>
+        <sellerTeamID>103565</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>FK.Qarabag</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36840198</playerID>
+        <date>2023-03-10 20:15:54</date>
+        <price>5196000</price>
+        <playerValue>3073000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7165865</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>142168</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Sokół  Przytkowice</buyerTeamName>
+        <playerID>38851384</playerID>
+        <date>2023-03-06 17:41:02</date>
+        <price>4000</price>
+        <playerValue>152000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7163082</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>34632</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>P.A.O.K. fc</buyerTeamName>
+        <playerID>38743261</playerID>
+        <date>2023-02-26 22:13:36</date>
+        <price>5004</price>
+        <playerValue>844000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7161688</ID>
+        <sellerTeamID>46212</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Arquitectos Unidos</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38812641</playerID>
+        <date>2023-02-24 16:50:23</date>
+        <price>128000</price>
+        <playerValue>279000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7160151</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>61122</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>AFC Şincai</buyerTeamName>
+        <playerID>38839535</playerID>
+        <date>2023-02-19 20:43:45</date>
+        <price>8772000</price>
+        <playerValue>690000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7153370</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>98974</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Coco Jambo</buyerTeamName>
+        <playerID>38488779</playerID>
+        <date>2023-02-02 20:17:12</date>
+        <price>20000000</price>
+        <playerValue>1447000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7152457</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>93994</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>realowczary</buyerTeamName>
+        <playerID>35807608</playerID>
+        <date>2023-01-30 20:21:04</date>
+        <price>11000</price>
+        <playerValue>4461000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7152134</ID>
+        <sellerTeamID>25382</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>K.S. Pogoń Łapy</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38802519</playerID>
+        <date>2023-01-29 21:05:08</date>
+        <price>4620000</price>
+        <playerValue>372000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7151117</ID>
+        <sellerTeamID>68359</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>ARIS Thessaloniki</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37014782</playerID>
+        <date>2023-01-27 22:25:17</date>
+        <price>9476000</price>
+        <playerValue>11082000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7149670</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>9999</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>FK Novi Sad</buyerTeamName>
+        <playerID>37715997</playerID>
+        <date>2023-01-22 21:15:19</date>
+        <price>11954400</price>
+        <playerValue>5896000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7145344</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>141816</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Kyteler</buyerTeamName>
+        <playerID>35542995</playerID>
+        <date>2023-01-11 14:28:44</date>
+        <price>442744</price>
+        <playerValue>3052000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7144441</ID>
+        <sellerTeamID>61769</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>F.C. FRONTIERA</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36648798</playerID>
+        <date>2023-01-08 20:38:18</date>
+        <price>6976000</price>
+        <playerValue>6480000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7144002</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>61261</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>FC Full Speed</buyerTeamName>
+        <playerID>38600568</playerID>
+        <date>2023-01-07 23:01:45</date>
+        <price>640560</price>
+        <playerValue>2414000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7142704</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>71395</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Spicul Salcud</buyerTeamName>
+        <playerID>38051263</playerID>
+        <date>2023-01-04 21:36:53</date>
+        <price>16216980</price>
+        <playerValue>3628000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7140873</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>145368</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>The trollers</buyerTeamName>
+        <playerID>38776637</playerID>
+        <date>2022-12-31 15:42:43</date>
+        <price>400</price>
+        <playerValue>320000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7140860</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>23373</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Budai Samuel Footbal Club</buyerTeamName>
+        <playerID>38785984</playerID>
+        <date>2022-12-31 15:17:01</date>
+        <price>6000</price>
+        <playerValue>123000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7138962</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>44678</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Atletico Fenice</buyerTeamName>
+        <playerID>38217740</playerID>
+        <date>2022-12-26 04:03:25</date>
+        <price>670652</price>
+        <playerValue>1086000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7122751</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>93648</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Nic szczególnego</buyerTeamName>
+        <playerID>37774255</playerID>
+        <date>2022-11-14 17:53:37</date>
+        <price>4896000</price>
+        <playerValue>1880000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7122070</ID>
+        <sellerTeamID>50560</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Anaheim Mighty Ducks</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38682807</playerID>
+        <date>2022-11-12 20:22:04</date>
+        <price>1916000</price>
+        <playerValue>426000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7119735</ID>
+        <sellerTeamID>140334</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>DieKickers</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38608611</playerID>
+        <date>2022-11-05 20:09:47</date>
+        <price>9436000</price>
+        <playerValue>574000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7118187</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>18931</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Pitufo</buyerTeamName>
+        <playerID>35676972</playerID>
+        <date>2022-10-31 20:08:19</date>
+        <price>1000000</price>
+        <playerValue>3099000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7117321</ID>
+        <sellerTeamID>16516</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>`Piast Gliwice`</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36353950</playerID>
+        <date>2022-10-29 19:32:06</date>
+        <price>10876000</price>
+        <playerValue>7651000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7116904</ID>
+        <sellerTeamID>5669</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>f.c maba</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36732046</playerID>
+        <date>2022-10-28 19:49:08</date>
+        <price>11524000</price>
+        <playerValue>7703000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7115753</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>96047</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Gloria Victis</buyerTeamName>
+        <playerID>38689159</playerID>
+        <date>2022-10-24 04:27:34</date>
+        <price>21000</price>
+        <playerValue>89000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7108200</ID>
+        <sellerTeamID>58787</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>The sowers of goals</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37819864</playerID>
+        <date>2022-10-01 22:58:09</date>
+        <price>17084000</price>
+        <playerValue>2401000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7096069</ID>
+        <sellerTeamID>87132</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Les boufs</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36323205</playerID>
+        <date>2022-09-02 21:43:49</date>
+        <price>19092000</price>
+        <playerValue>6997000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7092893</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>142718</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>CorinthiansPi FC</buyerTeamName>
+        <playerID>36137814</playerID>
+        <date>2022-08-23 23:58:52</date>
+        <price>6000</price>
+        <playerValue>1001000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7091730</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>142589</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Arco do Triunfo</buyerTeamName>
+        <playerID>38629349</playerID>
+        <date>2022-08-20 19:42:07</date>
+        <price>4</price>
+        <playerValue>517000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7087712</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>23136</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>MFK Rajec</buyerTeamName>
+        <playerID>37736917</playerID>
+        <date>2022-08-08 20:59:08</date>
+        <price>21878668</price>
+        <playerValue>4109000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7085778</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>76976</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Anham</buyerTeamName>
+        <playerID>38086426</playerID>
+        <date>2022-08-03 18:12:09</date>
+        <price>416160</price>
+        <playerValue>1226000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7081738</ID>
+        <sellerTeamID>48138</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Esporte Clube, CRUZEIRO</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>38600568</playerID>
+        <date>2022-07-24 01:03:03</date>
+        <price>12000</price>
+        <playerValue>656000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7076059</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>78180</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Dobermann</buyerTeamName>
+        <playerID>38583233</playerID>
+        <date>2022-07-09 17:07:47</date>
+        <price>4</price>
+        <playerValue>385000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7075682</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>143212</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Randers BulllDogs</buyerTeamName>
+        <playerID>38174415</playerID>
+        <date>2022-07-08 18:03:15</date>
+        <price>500</price>
+        <playerValue>435000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7074687</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>142635</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Leoguerra</buyerTeamName>
+        <playerID>38188280</playerID>
+        <date>2022-07-05 02:00:27</date>
+        <price>98000</price>
+        <playerValue>659000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7067168</ID>
+        <sellerTeamID>77376</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Appiolatino S.P.Q.R.</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>37826602</playerID>
+        <date>2022-06-16 16:54:52</date>
+        <price>3556000</price>
+        <playerValue>1322000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7054359</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>73101</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Club Atlético Atlas.</buyerTeamName>
+        <playerID>35794625</playerID>
+        <date>2022-05-11 20:24:31</date>
+        <price>9660420</price>
+        <playerValue>4759000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7046214</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>133005</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Cachilo FC</buyerTeamName>
+        <playerID>38478172</playerID>
+        <date>2022-04-18 02:40:55</date>
+        <price>4</price>
+        <playerValue>397000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7039863</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>93033</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Talking Heads</buyerTeamName>
+        <playerID>37923481</playerID>
+        <date>2022-04-02 20:11:33</date>
+        <price>4</price>
+        <playerValue>511000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7038678</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>46178</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Pueblo obrero</buyerTeamName>
+        <playerID>35011727</playerID>
+        <date>2022-03-31 00:31:08</date>
+        <price>2104750</price>
+        <playerValue>2609000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7038676</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>23707</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>osbom</buyerTeamName>
+        <playerID>37856871</playerID>
+        <date>2022-03-31 00:12:29</date>
+        <price>281000</price>
+        <playerValue>813000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7038662</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>55664</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>GKS Kraska Jasieniec</buyerTeamName>
+        <playerID>37651775</playerID>
+        <date>2022-03-30 23:56:53</date>
+        <price>1559000</price>
+        <playerValue>1301000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7025458</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>45675</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Viseu e Mantorras FC</buyerTeamName>
+        <playerID>38205123</playerID>
+        <date>2022-02-27 09:01:50</date>
+        <price>8000</price>
+        <playerValue>186000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7015462</ID>
+        <sellerTeamID>20028</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>C. S Gura Humorului</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36286919</playerID>
+        <date>2022-01-29 22:26:45</date>
+        <price>16792000</price>
+        <playerValue>4518000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7011085</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>87284</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>FC Merluchon</buyerTeamName>
+        <playerID>38161643</playerID>
+        <date>2022-01-18 17:02:05</date>
+        <price>4</price>
+        <playerValue>412000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>7004377</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>98633</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>huana team</buyerTeamName>
+        <playerID>38145234</playerID>
+        <date>2022-01-01 16:55:58</date>
+        <price>4</price>
+        <playerValue>195000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>6994034</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>20247</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>KuajasTeam</buyerTeamName>
+        <playerID>37669682</playerID>
+        <date>2021-12-04 20:15:37</date>
+        <price>6560000</price>
+        <playerValue>2468000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>6993857</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>20341</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Granma</buyerTeamName>
+        <playerID>37570103</playerID>
+        <date>2021-12-04 17:48:10</date>
+        <price>13404840</price>
+        <playerValue>5210000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>6991390</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>26982</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Tepro Iasi</buyerTeamName>
+        <playerID>33136330</playerID>
+        <date>2021-11-28 23:26:33</date>
+        <price>357000</price>
+        <playerValue>2458000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>6989568</ID>
+        <sellerTeamID>44117</sellerTeamID>
+        <buyerTeamID>6038</buyerTeamID>
+        <sellerTeamName>Zemanlandia</sellerTeamName>
+        <buyerTeamName>River Plate Forever</buyerTeamName>
+        <playerID>36030860</playerID>
+        <date>2021-11-24 14:21:55</date>
+        <price>11912000</price>
+        <playerValue>5358000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>6988277</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>94732</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>Could you not bid this player???</buyerTeamName>
+        <playerID>35770107</playerID>
+        <date>2021-11-21 06:36:37</date>
+        <price>1988000</price>
+        <playerValue>3807000</playerValue>
+    </transfer>
+    <transfer>
+        <ID>6982915</ID>
+        <sellerTeamID>6038</sellerTeamID>
+        <buyerTeamID>57674</buyerTeamID>
+        <sellerTeamName>River Plate Forever</sellerTeamName>
+        <buyerTeamName>CHWD</buyerTeamName>
+        <playerID>38086424</playerID>
+        <date>2021-11-07 07:13:56</date>
+        <price>1000</price>
+        <playerValue>267000</playerValue>
+    </transfer>
+    <warning>DATA TRUNCATED</warning>
+</transfers>
