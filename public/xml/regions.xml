@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regions countryID="89">
+    <region>
+        <regionID>1876</regionID>
+        <countryID>89</countryID>
+        <name>Chaouia-Ouardigha</name>
+        <weather>5</weather>
+    </region>
+    <region>
+        <regionID>1877</regionID>
+        <countryID>89</countryID>
+        <name>Doukkala-Abda</name>
+        <weather>2</weather>
+    </region>
+    <region>
+        <regionID>1878</regionID>
+        <countryID>89</countryID>
+        <name>Fès-Boulemane</name>
+        <weather>2</weather>
+    </region>
+    <region>
+        <regionID>1879</regionID>
+        <countryID>89</countryID>
+        <name>Gharb-Chrarda-Béni Hssen</name>
+        <weather>6</weather>
+    </region>
+    <region>
+        <regionID>1880</regionID>
+        <countryID>89</countryID>
+        <name>Grand Casablanca</name>
+        <weather>3</weather>
+    </region>
+    <region>
+        <regionID>1881</regionID>
+        <countryID>89</countryID>
+        <name>Guelmim-Es Semara</name>
+        <weather>5</weather>
+    </region>
+    <region>
+        <regionID>1882</regionID>
+        <countryID>89</countryID>
+        <name>Laâyoune-Boujdour-Sakia El Hamra</name>
+        <weather>6</weather>
+    </region>
+    <region>
+        <regionID>1883</regionID>
+        <countryID>89</countryID>
+        <name>Marrakech-Tensift-El Haouz</name>
+        <weather>3</weather>
+    </region>
+    <region>
+        <regionID>1884</regionID>
+        <countryID>89</countryID>
+        <name>Meknès-Tafilalet</name>
+        <weather>2</weather>
+    </region>
+    <region>
+        <regionID>1885</regionID>
+        <countryID>89</countryID>
+        <name>Oriental</name>
+        <weather>5</weather>
+    </region>
+    <region>
+        <regionID>1886</regionID>
+        <countryID>89</countryID>
+        <name>Oued Ed-Dahab-Lagouira</name>
+        <weather>4</weather>
+    </region>
+    <region>
+        <regionID>1887</regionID>
+        <countryID>89</countryID>
+        <name>Rabat-Salé-Zemmour-Zaer</name>
+        <weather>4</weather>
+    </region>
+    <region>
+        <regionID>1888</regionID>
+        <countryID>89</countryID>
+        <name>Souss-Massa-Draâ</name>
+        <weather>4</weather>
+    </region>
+    <region>
+        <regionID>1889</regionID>
+        <countryID>89</countryID>
+        <name>Tadla-Azilal</name>
+        <weather>3</weather>
+    </region>
+    <region>
+        <regionID>1890</regionID>
+        <countryID>89</countryID>
+        <name>Tangier-Tétouan</name>
+        <weather>2</weather>
+    </region>
+    <region>
+        <regionID>1891</regionID>
+        <countryID>89</countryID>
+        <name>Taza-Al Hoceima-Taounate</name>
+        <weather>2</weather>
+    </region>
+</regions>

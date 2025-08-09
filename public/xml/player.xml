@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<player>
+    <ID>37045872</ID>
+    <name>Bernardo</name>
+    <surname>Amuado</surname>
+    <countryID>20</countryID>
+    <age>32</age>
+    <height>175</height>
+    <weight>72.4</weight>
+    <BMI>23.63</BMI>
+    <teamID>6038</teamID>
+    <youthTeamID>45716</youthTeamID>
+    <value>6525000</value>
+    <wage>120200</wage>
+    <cards>2</cards>
+    <goals>0</goals>
+    <assists>2</assists>
+    <matches>290</matches>
+    <ntCards>0</ntCards>
+    <ntGoals>0</ntGoals>
+    <ntAssists>0</ntAssists>
+    <ntMatches>17</ntMatches>
+    <injuryDays>0</injuryDays>
+    <national>0</national>
+    <skillForm>16</skillForm>
+    <skillExperience>17</skillExperience>
+    <skillTeamwork>16</skillTeamwork>
+    <skillDiscipline>16</skillDiscipline>
+    <transferList>0</transferList>
+    <skillStamina>11</skillStamina>
+    <skillPace>16</skillPace>
+    <skillTechnique>8</skillTechnique>
+    <skillPassing>7</skillPassing>
+    <skillKeeper>0</skillKeeper>
+    <skillDefending>17</skillDefending>
+    <skillPlaymaking>10</skillPlaymaking>
+    <skillScoring>6</skillScoring>
+    <trainingPosition>1</trainingPosition>
+    <isInTrainingSlot>false</isInTrainingSlot>
+</player>
