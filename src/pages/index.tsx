@@ -1,14 +1,14 @@
 import Image from "next/image";
-import styles from "./page.module.css";
 import Profile from "@/components/profile";
+// Los estilos se importan en _app.tsx para cumplir con las restricciones de Next.js
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
+    <main className="main">
+      <div className="description">
         <p>
           Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          <code className="code">src/pages/index.tsx</code>
         </p>
         <div>
           <a
@@ -22,9 +22,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className={styles.center}>
+      <div className="center">
         <Image
-          className={styles.logo}
+          className="logo"
           src="/next.svg"
           alt="Next.js Logo"
           width={180}
