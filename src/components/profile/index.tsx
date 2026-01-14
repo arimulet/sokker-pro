@@ -6,8 +6,6 @@ import { useUser   } from '@auth0/nextjs-auth0/client';
 
 import Button from '@mui/material/Button'
 
-import './styles.scss'
-
 const Profile = () => {
    const { user,  error, isLoading } = useUser()
     
@@ -16,9 +14,9 @@ const Profile = () => {
   
   
   return (    
-      <div className='profile'>
+      <div className="profile">
         {user ? (<>
-              <img className='photo' src={`${user.picture}`} alt={`${user.name}`} />
+              <img className="photo" src={`${user.picture}`} alt={`${user.name}`} />
               <h2>{user.name}</h2>
               <p>{user.email}</p></>
               ) :

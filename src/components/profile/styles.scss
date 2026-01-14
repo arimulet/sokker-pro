@@ -1,8 +1,15 @@
+// Variables del componente
+$profile-padding: 8px 16px;
+$photo-border-radius: 50%;
+
 .profile {
-  padding: 8px 16px;
+  padding: $profile-padding;
 }
 
-
 .photo {
-  border-radius: 50%;
+  border-radius: $photo-border-radius;
+  width: 100%;
+  max-width: 80px;
+  height: auto;
+  object-fit: cover;
 }
