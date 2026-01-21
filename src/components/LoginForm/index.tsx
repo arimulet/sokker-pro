@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { LoginFormProps } from './types';
-
+import styles from './index.module.scss'
+import Section from '../Section';
 
 const LoginForm: React.FC<LoginFormProps> = () => {
   const [username, setUsername] = useState('');
@@ -19,45 +20,48 @@ const LoginForm: React.FC<LoginFormProps> = () => {
   };
 
   return (
-    <div className="login-form-container">
-      <form className="login-form" onSubmit={handleSubmit}>
-        <h2 className="login-form__title">Iniciar Sesión</h2>
+    <Section>
 
-        <div className="login-form__field">
-          <label htmlFor="username" className="login-form__label">
+       
+      <form className={styles.loginForm} onSubmit={handleSubmit}>
+        <h2 className={`${styles.loginForm}__title`}>Iniciar Sesión</h2>
+
+        <div className={`${styles.loginForm}__field`}>
+          <label htmlFor="username" className={`${styles.loginForm}__label`}>
             Usuario
           </label>
           <input
             id="username"
             type="text"
-            className="login-form__input"
+            className={`${styles.loginForm}__input`}
             value={username}
             onChange={(e) => setUsername(e.target.value)}
             placeholder="Ingresa tu usuario"
           />
         </div>
 
-        <div className="login-form__field">
-          <label htmlFor="password" className="login-form__label">
+        <div className={`${styles.loginForm}__field`}>
+          <label htmlFor="password" className={`${styles.loginForm}__label`}>
             Contraseña
           </label>
           <input
             id="password"
             type="password"
-            className="login-form__input"
+            className={`${styles.loginForm}__input`}
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             placeholder="Ingresa tu contraseña"
           />
         </div>
 
-        {error && <div className="login-form__error">{error}</div>}
+        {error && <div className={`${styles.loginForm}__error`}>{error}</div>}
 
-        <button type="submit" className="login-form__button">
+        <button type="submit" className={`${styles.loginForm}__button`}>
           Ingresar
         </button>
       </form>
-    </div>
+
+    </Section>
   );
 };
 
