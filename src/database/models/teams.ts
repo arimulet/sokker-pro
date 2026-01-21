@@ -11,3 +11,4 @@ class Team {
 const model = getModelForClass(Team);
 
 export default model;
+
