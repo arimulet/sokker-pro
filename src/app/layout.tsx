@@ -4,6 +4,9 @@ import Sidebar from './ui/Sidebar'
 import Footer from './ui/Footer'
 
 import '@/styles/globals.scss'
+import './ui/Header/styles.scss'
+import './ui/Footer/styles.scss'
+import './ui/Sidebar/styles.scss'
 
 export const metadata: Metadata = {
   title: 'Sokker Pro',
