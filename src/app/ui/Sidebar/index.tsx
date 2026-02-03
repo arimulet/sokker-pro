@@ -11,22 +11,20 @@ const Sidebar = () => {
   ];
 
   return (
-    <Box className="sidebar">
-      <nav>
-        <List>
-          {menuItems.map((item, index) => (
-            <ListItem key={index} disablePadding>
-              <ListItemButton>
-                <ListItemIcon>
-                  {item.icon}
-                </ListItemIcon>
-                <ListItemText primary={item.text} />
-              </ListItemButton>
-            </ListItem>
-          ))}
-        </List>
-      </nav>
-    </Box>
+    <nav>
+      <List>
+        {menuItems.map((item, index) => (
+          <ListItem key={index} disablePadding>
+            <ListItemButton>
+              <ListItemIcon>
+                {item.icon}
+              </ListItemIcon>
+              <ListItemText primary={item.text} />
+            </ListItemButton>
+          </ListItem>
+        ))}
+      </List>
+    </nav>
   )
 }
 
